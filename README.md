@@ -64,7 +64,7 @@ This is a personal portfolio website showcasing Lucky's professional background,
 
     3. Explore the various sections of the portfolio.
 ## Screenshot
-![Screenshot](assets/image/screenshot.png)
+![Screenshot](/Documents/Portfolio/assets/image/screenshot.png)
 
 ## Contact:
 Feel free to reach out to Lucky through the contact information provided on the website or through his social media profiles if you have any questions or feedback.
